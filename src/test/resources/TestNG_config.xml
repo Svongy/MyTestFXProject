@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <guiApp>
+        <jarPath value="resources\UIJar\Main.jar"/>
+        <mainClass value="com.test.gui.Main"/>
+    </guiApp>
+</root>
